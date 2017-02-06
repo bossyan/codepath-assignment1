@@ -57,7 +57,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://d.pr/i/37JD+" title="Video Walkthrough!" alt="Video Walkthrough!" />
+<img src="https://drops.azureedge.net/drops/files/acc_498173/37JD?rscd=inline%3B%20filename%3Dimage%252Fgif&rsct=image%2Fgif&se=2017-02-06T03%3A23%3A20Z&sig=%2FRsyLvtV0I4FRj0gWShYqALJHgyYUyOzbvnOOmUlkcI%3D&sp=r&sr=b&st=2017-02-06T02%3A23%3A20Z&sv=2013-08-15" title="Video Walkthrough!" alt="Video Walkthrough!" />
 
 GIF created with [Droplr](http://www.droplr.com).
 
