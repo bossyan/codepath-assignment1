@@ -57,6 +57,10 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
+I'm having trouble with embedding the GIF into Github. I think it's cause the GIF size is too large.
+Here is the link to the GIF:
+http://d.pr/i/37JD+
+
 <img src="http://d.pr/i/1pEx+" title="Video Walkthrough!" alt="Video Walkthrough!" />
 
 GIF created with [Droplr](http://www.droplr.com).
