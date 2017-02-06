@@ -57,7 +57,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="http://imgur.com/sNkdGQe" title="Video Walkthrough!" alt="Video Walkthrough!" />
+<img src="http://d.pr/i/1pEx+" title="Video Walkthrough!" alt="Video Walkthrough!" />
 
 GIF created with [Droplr](http://www.droplr.com).
 
