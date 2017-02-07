@@ -49,7 +49,7 @@
       } else if (!has_valid_email_format($email)) {
         $errors[] = 'Email must contain a @ symbol';
       }
-      $selectUser = "SELECT * FROM users WHERE username = '". addslashes($username) ."'";
+      $selectUser = "SELECT * FROM users WHERE username = '". db_escape($db, $username) ."'";
       $user = mysqli_fetch_assoc(db_query($db, $selectUser));
 
       if($user) {
@@ -61,7 +61,7 @@
 
 
 
-        $sql = "INSERT INTO users (first_name, last_name, email, username, created_at) VALUES ('". addslashes($first_name) . "', '" . addslashes($last_name) . "', '" . addslashes($email) . "', '". addslashes($username) . "', NOW())";
+        $sql = "INSERT INTO users (first_name, last_name, email, username, created_at) VALUES ('". db_escape($db, $first_name) . "', '" . db_escape($db, $last_name) . "', '" . db_escape($db, $email) . "', '". db_escape($db, $username) . "', NOW())";
 
         // For INSERT statments, $result is just true/false
         $result = db_query($db, $sql);
